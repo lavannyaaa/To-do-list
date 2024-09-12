@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image: linear-gradient(120deg, #315033, #3f6472,#43406c );
+    color: white;
+    min-height: 100vh; 
+}
+
+h1,
+form,
+.todo-list-container,
+.todo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+
+input,
+button {
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+}
+
+.input-box,
+.add-btn {
+    padding: 0.5rem;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.todo-container {
+    background-color: white;
+    margin: 1rem 0rem;
+    min-height: fit-content;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.todo-item {
+    list-style: none;
+    flex-grow: 1;
+    color: #000;
+    font-size: 1.5rem;
+    padding: 0rem 1rem;
+}
+
+.delete-btn,
+.complete-btn {
+    cursor: pointer;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.fa-check,
+.fa-trash-can {
+    padding: 0.5rem;
+    pointer-events: none;
+    color: white;
+}
+
+.delete-btn {
+    background-color: red;
+}
+
+.complete-btn {
+    background-color: green;
+}
+
+.Completed {
+    opacity: 0.5;
+    text-decoration: line-through;
+}
