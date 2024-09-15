@@ -1,4 +1,4 @@
-**TODO LIST** :
+# TODO LIST
 
 To-do List is a simple yet efficient task management web application built using HTML, CSS, and JavaScript. 
 This application allows users to add, delete, and mark tasks as completed, helping them stay organized.
