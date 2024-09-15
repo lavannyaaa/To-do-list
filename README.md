@@ -38,8 +38,9 @@ Check out the live version of To-do List: [ To-do List Website](https://lavannya
 
 
 **AUTHOR**
-Lavannyaaa
-GitHub
+
+[lavannyaaa](https://github.com/lavannyaaa)
+
 
 **ACKNOWLEDGEMENT**
 - Inspired by personal task management needs.
