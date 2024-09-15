@@ -27,11 +27,13 @@ HOW TO USE
 - Use the delete button to remove any task you no longer need.
 
 SCREENSHOT
+
 A view of the To-do List interface showing task input, task completion, and deletion functionality.
+
 ![Screenshot 2024-09-14 224956](https://github.com/user-attachments/assets/44dd1d96-7b8d-42e1-b7bb-535f718c0afa)
 
 LIVE DEMO
-Check out the live version of To-do List:  To-do List Website
+Check out the live version of To-do List: [ To-do List Website](https://lavannyaaa.github.io/To-do-list/)
 
 License
 This project is licensed under the MIT License.
